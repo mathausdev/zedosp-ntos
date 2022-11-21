@@ -1,0 +1,13 @@
+html{
+    background-color: black;
+    background-image: url(fundo.jpg);   
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
