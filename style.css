@@ -17,8 +17,7 @@ body {
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
 .logo {
-    width: 350px;
-    margin-top: 20px;
+    width: 300px;
     margin-left: 20px;
     border-radius: 50px;
     box-shadow: 9px 7px 5px rgba(7, 3, 3, 0.77);
@@ -26,24 +25,29 @@ body {
 
 h1 {
 font-size: 50px;
-text-align: center;
+text-align:center;
 position: relative;
 margin-top: 40px;
 
 }
 
 
-
 .roda {
     width: 80px;
     display: block;
-    padding-top: 150px;
+    padding-top: 220px;
     margin-left: auto;
     margin-right: auto;
 }
 
 
+ul {
+    
+        
+}
+
 .copyright {
+    margin-top: 5px;
     text-align: center;
     color: #000000;
     font-weight: bold;
