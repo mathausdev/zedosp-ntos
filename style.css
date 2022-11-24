@@ -28,6 +28,7 @@ font-size: 50px;
 text-align:center;
 position: relative;
 margin-top: 40px;
+text-shadow: 9px 7px 5px rgba(83, 65, 65, 0.77);
 
 }
 
@@ -41,8 +42,9 @@ margin-top: 40px;
 }
 
 
-ul {
-    
+.lista {
+   padding-top: 20px;
+
         
 }
 
